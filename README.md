@@ -1,6 +1,6 @@
 # Projeto1-Curso_em_Video
 
-https://reginaldospinheiro.github.io/Projeto1-Curso_em_Video/
+https://reginaldospinheiro.github.io/Projeto2-Curso_em_Video/
 
 ## Objetivo
 ##### Criar um site responsivo com o efeito parallax.
