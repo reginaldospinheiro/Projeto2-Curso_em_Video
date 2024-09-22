@@ -1,4 +1,4 @@
-# Projeto1-Curso_em_Video
+# Projeto2-Curso_em_Video
 
 https://reginaldospinheiro.github.io/Projeto2-Curso_em_Video/
 
